@@ -1,6 +1,4 @@
-# QRS Complex Detection in ECG Signals: A Pan-Tompkins
-
-## Algorithm Implementation
+# QRS Complex Detection in ECG Signals: A Pan-Tompkins Algorithm Implementation
 
 ### Introduction
 Electrocardiogram (ECG) signal analysis is a cornerstone of cardiac diagnostics, providing essential
