@@ -14,9 +14,9 @@ to identify QRS complexes accurately, even in the presence of noise and signal v
 clinical settings. The project evaluates the algorithm's performance against expert annotations, providing
 metrics such as sensitivity, positive predictivity, and F1 score to quantify detection accuracy.
 
-### The Pan-Tompkins Algorithm
+# The Pan-Tompkins Algorithm
 
-# Overview
+### Overview
 Developed in 1985 by Jiapu Pan and Willis J. Tompkins, the Pan-Tompkins algorithm represents a
 systematic approach to QRS detection that remains relevant despite its age. The algorithm processes an
 ECG signal through multiple stages, each designed to enhance specific characteristics of the QRS complex
